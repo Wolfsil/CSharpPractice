@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <PackageId>AoPrac</PackageId>
+    <Title>BoPrac</Title>
+    <Version>1.1.1</Version>
+    <Authors>CoPrac</Authors>
+    <Company>DoPrac</Company>
+    <Product>EoPrac</Product>
+    <Description>FoPrac</Description>
+    <Copyright>MIT</Copyright>
+    <PackageProjectUrl>www.google.com</PackageProjectUrl>
+    <StartupObject></StartupObject>
+  </PropertyGroup>
+
+</Project>
